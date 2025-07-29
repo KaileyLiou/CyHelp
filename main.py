@@ -36,7 +36,7 @@ while giveInfo.lower() == "yes":
         print("Integrity makes sure data has not been tampered with and can be trusted.")
 
     elif topic.lower() == "c":
-        print("Availability makes sure authorized people can access the data.")
+        print("Availability makes sure authorizes people can access the data.")
 
     elif topic.lower() == "d":
         break
