@@ -1,6 +1,6 @@
 # CyHelp
 
-This is a very simple Python chatbot that describes cybersecurity and the CIA Triad (confidentiality, integrity, availability).
+This is a very simple Python chatbot that describes cybersecurity and the CIA Triad (confidentiality, integrity, availability). This was my first time coding a chatbot, and I was able to learn new concepts.
 
 ## How to Run on macOS
 
