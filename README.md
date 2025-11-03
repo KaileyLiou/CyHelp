@@ -13,3 +13,6 @@ cd ~/Downloads
 chmod +x main
 xattr -d com.apple.quarantine main
 ./main
+```
+
+<img width="929" height="345" alt="CyHelp" src="https://github.com/user-attachments/assets/ef842d5a-5b39-453d-9a16-18a1fe3e84c6" />
